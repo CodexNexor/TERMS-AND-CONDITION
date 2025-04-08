@@ -34,5 +34,4 @@ This project is a Telegram bot built using Python that helps businesses easily g
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/CodexNexor/
-cd telegram-terms-bot
+https://github.com/CodexNexor/TERMS-AND-CONDITION.git
